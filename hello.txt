@@ -1,2 +1,2 @@
-hello
-new text
+purpose:
+nothing!
