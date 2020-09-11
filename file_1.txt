@@ -3,3 +3,6 @@ How are you?
 
 
 I am doing great!
+
+
+I am a new line.
